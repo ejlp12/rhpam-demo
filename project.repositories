@@ -12,7 +12,7 @@
       <include>true</include>
       <metadata>
         <id>local</id>
-        <url>/Users/ivantan/.m2/repository</url>
+        <url>/Users/ejlp12/.m2/repository</url>
         <source>LOCAL</source>
       </metadata>
     </repository>
